@@ -21,6 +21,15 @@ The images are first resized to 96 pixels at the shorter side and resizing the o
 Here are some examples of the predictions on the testing set (RED = Ground Truth, GREEN = Predicted):  
 ![detecting results](img/detect_result.png)  
 
+## Use Case
+Check the main model.
+Every year The X University receives more than 10 applications for its various campus /colleges in STEM academic discipline. The management has decided to use Deep Tech to ease the process. The Deep Tech model should be able to pick Physics, Chemistry & Mathematics scores from the marksheet and recommend respective campus. 
+
+Assignment: Create and Deploy a Deep Learning Model based in CNN, which will allow student to upload their marksheet and display the respective campus for admission.
+1)	Campus-Alpha:  If the total marks (P+C+M) >= 90%  
+2)	Campus-Beta: If the total marks (P+C+M) >= 80% and < 90%
+3)	Campus-Gama: If the total marks (P+C+M) >= 70% and < 80%  
+
 ## End to end
 After training both models, the models can be used to detect and recognize digits from the street view images. The whole pipeline works as follow:
 1. The input image is first scaled down to 96 pixels on the shorter side, a 96x96 patch is cropped from the middle.
@@ -50,6 +59,8 @@ Below are some cherry-picked results:
 08_end_to_end.ipynb:          testing both models working together
 
 model.py:                     implementation of the model described in Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Networks 
+
+main_model.ipynb: YOU CAN CHECK THE FINAL RESULT AFTER TRAINING FOR EVERY STUDENT.
 ```
 
 ## Environment
