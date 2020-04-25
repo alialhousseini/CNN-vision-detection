@@ -1,4 +1,5 @@
-# Street_View_House_Numbers
+# Project using openCV and CNN with KERAS AND TENSORFLOW
+## Detecting Numbers and Names
 This project aims to detect and recognize digit sequence in the SVHN dataset. The SVHN dataset consist of real-world images of house numbers from Google Street View, the project is organized into 2 parts:
 1. A rough implementation of the research paper [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Networks](https://arxiv.org/abs/1312.6082) to recognize the digit sequence.
 1. Using [SmallerVGGNet](https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/) to detect the digit sequences in the images.  
