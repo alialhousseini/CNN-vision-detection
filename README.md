@@ -66,9 +66,9 @@ main_model.ipynb: YOU CAN CHECK THE FINAL RESULT AFTER TRAINING FOR EVERY STUDEN
 
 ![0w](img/image.png)  
 
-![first](img/image (1).png)  
+![first](img/image(1).png)  
 
-![secnd](img/image (2).png)  
+![secnd](img/image(2).png)  
 ## Environment
 * Python 3.6
 * Keras 2.1.6
