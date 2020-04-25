@@ -63,7 +63,9 @@ model.py:                     implementation of the model described in Multi-dig
 
 main_model.ipynb: YOU CAN CHECK THE FINAL RESULT AFTER TRAINING FOR EVERY STUDENT.
 ```
-
+![classify results](img/image.png)  
+![classify results](img/image(1).png)  
+![classify results](img/image(2).png)  
 ## Environment
 * Python 3.6
 * Keras 2.1.6
