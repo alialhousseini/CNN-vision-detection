@@ -29,7 +29,7 @@ After training both models, the models can be used to detect and recognize digit
 1. The smaller patch is resized to 54x54 and fed into the recognizing model.  
 
 Below are some cherry-picked results:
-![end to end](img/cherry_pick.PNG)
+![end to end](img/cherry_pick.png)
 
 ## Files
 ```
