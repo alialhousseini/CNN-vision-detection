@@ -63,9 +63,9 @@ model.py:                     implementation of the model described in Multi-dig
 
 main_model.ipynb: YOU CAN CHECK THE FINAL RESULT AFTER TRAINING FOR EVERY STUDENT.
 ```
-![0](img/image.png)  
-![1](img/image (1).png)  
-![2](img/image (2).png)  
+![0w](img/image.png)  
+![first](img/image (1).png)  
+![secnd](img/image (2).png)  
 ## Environment
 * Python 3.6
 * Keras 2.1.6
